@@ -1,0 +1,314 @@
+[
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "Agbami",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 3.6053,
+    "lon": 4.5554
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "Equinor Nigeria AS",
+    "projectClass": "Identifiable",
+    "projectType": "Corporate",
+    "commodity": "oil",
+    "lat": 6.4449,
+    "lon": 3.4337
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "Equinor Nigeria Energy Company Limited",
+    "projectClass": "Identifiable",
+    "projectType": "Corporate",
+    "commodity": "oil",
+    "lat": 6.4449,
+    "lon": 3.4337
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "Joint Ventures with NNPC, non-operated, non-attributable",
+    "projectClass": "Unidentifiable",
+    "projectType": "Oil & Gas"
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "Joint Ventures with NNPC, operated, non-attributable",
+    "projectClass": "Unidentifiable",
+    "projectType": "Oil & Gas"
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "NAOC JV (Land Swamp Areas)",
+    "projectClass": "Identifiable",
+    "projectType": "Corporate",
+    "commodity": "oil",
+    "lat": 9.0835,
+    "lon": 7.4856
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "Niger Delta Concessions",
+    "projectClass": "Unidentifiable",
+    "projectType": "Oil & Gas"
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "Non-attributable",
+    "projectClass": "Unidentifiable",
+    "projectType": "Corporate"
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 100 (joint venture with NNPC, operated)",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 3.796,
+    "lon": 7.6639
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 102 (joint venture with NNPC, operated)",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil",
+    "lat": 3.7812,
+    "lon": 8.0538
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 102 Ekanga (joint venture with NNPC, non-operated)",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil",
+    "lat": 3.7812,
+    "lon": 8.0538
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 116",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 6.4004,
+    "lon": 3.3964
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 118 (Bonga)",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 4.4661,
+    "lon": 4.6467
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 125",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 6.0316,
+    "lon": 3.3768
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 127/128",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 3.5593,
+    "lon": 6.0508
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 130",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 3.4472,
+    "lon": 6.8064
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 138",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil",
+    "lat": 3.5302,
+    "lon": 7.8858
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 139",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 3.6409,
+    "lon": 7.4478
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 4, OML 38, OML 41",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 5.9189,
+    "lon": 5.8235
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 53",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil",
+    "lat": 5.8531,
+    "lon": 6.5836
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 56",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 6.9176,
+    "lon": 6.8141
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 58 (joint venture with NNPC, operated)",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil",
+    "lat": 5.5415,
+    "lon": 6.6713
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML 99 (joint venture with NNPC, operated)",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 4.2608,
+    "lon": 7.2426
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OML125/OPL245",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil",
+    "lat": 5.5431,
+    "lon": 4.2944
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OPL 223",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 3.3123,
+    "lon": 7.8125
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OPL 238",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil",
+    "lat": 3.8225,
+    "lon": 6.3474
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OPL 245",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil",
+    "lat": 5.9189,
+    "lon": 5.9189
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "OPL 285",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 4.4918,
+    "lon": 4.882
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "PSC 1993 (OPL 209)",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 5.8418,
+    "lon": 4.0765
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "PSC 1993 (OPL 212/OML 118, OPL 219/OML 135)",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 3.5619,
+    "lon": 6.3273
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "SPDC East",
+    "projectClass": "Unidentifiable",
+    "projectType": "Oil & Gas"
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "SPDC JV",
+    "projectClass": "Identifiable",
+    "projectType": "Oil & Gas",
+    "commodity": "oil, natural gas",
+    "lat": 6.45,
+    "lon": 3.3928
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "SPDC Shallow Water",
+    "projectClass": "Unidentifiable",
+    "projectType": "Oil & Gas"
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "SPDC West",
+    "projectClass": "Unidentifiable",
+    "projectType": "Oil & Gas"
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "Statoil Nigeria Limited",
+    "projectClass": "Identifiable",
+    "projectType": "Corporate",
+    "commodity": "oil",
+    "lat": 6.4448,
+    "lon": 3.4329
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "The Shell Petroleum Development Company of Nigeria Limited",
+    "projectClass": "Identifiable",
+    "projectType": "Corporate",
+    "commodity": "oil,gas",
+    "lat": 6.4498,
+    "lon": 3.3933
+  },
+  {
+    "projectCountry": "Nigeria",
+    "projectName": "Segilola Gold Project",
+    "projectClass": "Identifiable",
+    "projectType": "Mining",
+    "commodity": "gold",
+    "lat": 6.5166,
+    "lon": 3.3756
+  }
+]
